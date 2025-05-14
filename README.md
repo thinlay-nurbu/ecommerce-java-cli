@@ -53,4 +53,4 @@ Clients must **sign up** on first use and then **log in** to access their shoppi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thinlay-nurbu/ecommerce-java-cli.git
+   git clone [https://github.com/thinlay-nurbu/ecommerce-java-cli.git]
